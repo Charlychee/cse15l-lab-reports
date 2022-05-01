@@ -31,4 +31,4 @@
 
 ![NestedBracketsError](images/Week4/NestedBracketsError.jpg)
 
-> The symptom is that there is no output and the program never ends. The bug is that the while loop never exits, resulting in the symptom observed. This is because the while loop exit condition is never reached due to the fact that the search finds the second to last parentheses as the last character, rather than the actual last parentheses as the last character.
+> The symptom is that the entire link is not outputted, and instead only a portion of the link, up until the nested parentheses, is outputted.. The bug is that the while loop never exits, resulting in the symptom observed. This is because the while loop exit condition is never reached due to the fact that the search finds the second to last parentheses as the last character, rather than the actual last parentheses as the last character.
