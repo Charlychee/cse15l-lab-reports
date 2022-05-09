@@ -35,3 +35,14 @@ Running Git commands
 ![GitCommands](images/Week6/GitCommands.jpg)
 
 [Link to Commit](https://github.com/Charlychee/cse15l-lab-reports/commit/8e04400d275072713fcff4b9a3f39013162c81e5)
+
+## Copy whole directories with `scp -r`
+
+Copying directory to server
+
+![CopyServer](images/Week6/SCPServer.jpg)
+
+Login and Compile and Run tests
+
+![LoginCompile](images/Week6/LoginCompile.jpg)
+
