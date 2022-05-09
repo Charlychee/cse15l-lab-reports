@@ -46,3 +46,8 @@ Login and Compile and Run tests
 
 ![LoginCompile](images/Week6/LoginCompile.jpg)
 
+Copy the whole directory and run the tests in one line.
+
+![OneLine](images/Week6/OneLine.jpg)
+
+`ssh ieng6 "mkdir -p ~/markdown-parser"; scp -r markdown-parser/lib markdown-parser/*.* ieng6:~/markdown-parser; ssh -t ieng6 "bash --login -c 'cd markdown-parser && javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java && java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest'"`
