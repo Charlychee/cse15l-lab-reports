@@ -29,9 +29,11 @@ Public Key on GitHub
 ![GitHubPublicKey](images/Week6/SSHKeyGithub.jpg)
 
 Public Key and Private Key on ieng6
+
 ![ServerKeys](images/Week6/SSHKeyServer.jpg)
 
 Running Git commands
+
 ![GitCommands](images/Week6/GitCommands.jpg)
 
 [Link to Commit](https://github.com/Charlychee/cse15l-lab-reports/commit/8e04400d275072713fcff4b9a3f39013162c81e5)
